@@ -1,0 +1,9 @@
+[VS Code]
+.vscode
+
+[Code::Blocks]
+*.layout
+
+[Output Files]
+bin
+obj
