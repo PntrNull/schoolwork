@@ -1,3 +1,14 @@
+/*
+ * @Author: PntrNull PntrNull@outlook.com
+ * @Date: 2026-09-11 00:04:27
+ * @LastEditors: PntrNull PntrNull@outlook.com
+ * @LastEditTime: 2026-09-17 23:53:26
+ * @FilePath: /schoolwork/junior/P5708.c
+ * @Description: https://www.luogu.com.cn/problem/P5708
+ * Hello, World!
+ * LICENSE: Unlicense. Free to use in anywhere.
+ */
+
 #include <stdio.h>
 #include <math.h>
 
@@ -7,6 +18,6 @@ int main()
     scanf("%lf %lf %lf", &a, &b, &c);
     double p = (double)(a + b + c) / 2;
     double S = sqrt(p * (p - a) * (p - b) * (p - c));
-    printf("%.1f", S);
+    printf("%.1f\n", S);
     return 0;
 }
