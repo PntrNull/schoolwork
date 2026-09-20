@@ -11,3 +11,7 @@ obj
 [Executable Programs]
 *.exe
 *.out
+
+[Batches]
+*.bat
+*.sh
