@@ -5,8 +5,8 @@
  * @LastEditTime: 2026-09-20 22:30:23
  * @FilePath: /schoolwork/junior/P5742.c
  * @Description: https://www.luogu.com.cn/problem/P5742
- * Hello, World!
- * LICENSE: Unlicense. Free to use in anywhere.
+ * hello, world
+ * LICENSE: Unlicense
  */
 
 // 虽然这一题是要用 struct 进行解决,

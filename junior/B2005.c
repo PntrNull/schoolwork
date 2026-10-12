@@ -5,8 +5,8 @@
  * @LastEditTime: 2026-09-17 23:49:42
  * @FilePath: /schoolwork/junior/B2005.c
  * @Description: https://www.luogu.com.cn/problem/B2005
- * Hello, World!
- * LICENSE: Unlicense. Free to use in anywhere.
+ * hello, world
+ * LICENSE: Unlicense
  */
 
 #include <stdio.h>

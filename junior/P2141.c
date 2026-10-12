@@ -5,8 +5,8 @@
  * @LastEditTime: 2026-09-20 21:34:07
  * @FilePath: /schoolwork/junior/P2141.c
  * @Description: https://www.luogu.com.cn/problem/P2141
- * Hello, World!
- * LICENSE: Unlicense. Free to use in anywhere.
+ * hello, world
+ * LICENSE: Unlicense
  */
 
 #include <stdio.h>

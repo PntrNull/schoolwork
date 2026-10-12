@@ -5,8 +5,8 @@
  * @LastEditTime: 2026-09-18 22:07:17
  * @FilePath: /schoolwork/junior/P1980.c
  * @Description: https://www.luogu.com.cn/problem/P1980
- * Hello, World!
- * LICENSE: Unlicense. Free to use in anywhere.
+ * hello, world
+ * LICENSE: Unlicense
  */
 
 #include <stdio.h>

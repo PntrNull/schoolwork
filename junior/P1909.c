@@ -5,8 +5,8 @@
  * @LastEditTime: 2026-09-17 23:51:49
  * @FilePath: /schoolwork/junior/P1909.c
  * @Description: https://www.luogu.com.cn/problem/P1909
- * Hello, World!
- * LICENSE: Unlicense. Free to use in anywhere.
+ * hello, world
+ * LICENSE: Unlicense
  */
 
 #include <stdio.h>

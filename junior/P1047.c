@@ -5,8 +5,8 @@
  * @LastEditTime: 2026-09-20 21:27:10
  * @FilePath: /schoolwork/junior/P1047.c
  * @Description: https://www.luogu.com.cn/problem/P1047
- * Hello, World!
- * LICENSE: Unlicense. Free to use in anywhere.
+ * hello, world
+ * LICENSE: Unlicense
  */
 
 #include <stdio.h>

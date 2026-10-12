@@ -5,8 +5,8 @@
  * @LastEditTime: 2026-09-20 21:45:51
  * @FilePath: /schoolwork/junior/P5735.c
  * @Description: https://www.luogu.com.cn/problem/P5735
- * Hello, World!
- * LICENSE: Unlicense. Free to use in anywhere.
+ * hello, world
+ * LICENSE: Unlicense
  */
 
 #include <stdio.h>

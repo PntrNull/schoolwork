@@ -5,8 +5,8 @@
  * @LastEditTime: 2026-09-18 22:15:33
  * @FilePath: /schoolwork/junior/P2669.c
  * @Description: https://www.luogu.com.cn/problem/P2669
- * Hello, World!
- * LICENSE: Unlicense. Free to use in anywhere.
+ * hello, world
+ * LICENSE: Unlicense
  */
 
 #include <stdio.h>

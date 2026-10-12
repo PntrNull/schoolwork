@@ -5,8 +5,8 @@
  * @LastEditTime: 2026-09-17 23:49:27
  * @FilePath: /schoolwork/junior/P1422.c
  * @Description: https://www.luogu.com.cn/problem/P1422
- * Hello, World!
- * LICENSE: Unlicense. Free to use in anywhere.
+ * hello, world
+ * LICENSE: Unlicense
  */
 
 #include <stdio.h>
