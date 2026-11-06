@@ -1,0 +1,7 @@
+1 c[ROW][ROW]
+2 0
+3 c[i][j] + a[i][k] * b[k][j]
+4 printf("\n")
+5 &a[i][j]
+6 &b[i][j]
+7 a, b, c
